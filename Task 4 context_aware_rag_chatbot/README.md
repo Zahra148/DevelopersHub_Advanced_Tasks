@@ -6,9 +6,9 @@
 ![Vector Search](https://img.shields.io/badge/Semantic-Search-purple)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
-![GitHub stars](https://img.shields.io/github/stars/Zahra/https://github.com/Zahra148/DevelopersHub_Advanced_Tasks?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Zahra148/https://github.com/Zahra148/DevelopersHub_Advanced_Tasks?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Zahra148/https://github.com/Zahra148/DevelopersHub_Advanced_Tasks)
+![GitHub stars](https://img.shields.io/github/stars/Zahra148/DevelopersHub_Advanced_Tasks?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Zahra148/DevelopersHub_Advanced_Tasks?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Zahra148/DevelopersHub_Advanced_Tasks)
 
 
 
