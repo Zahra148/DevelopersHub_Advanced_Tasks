@@ -1,0 +1,39 @@
+Machine Learning Definition
+
+Machine Learning (ML) is a subset of Artificial Intelligence that enables systems to automatically learn patterns from data and make predictions without explicit programming.
+
+Supervised Learning
+
+Supervised learning uses labeled datasets where input-output pairs are provided. The model learns to map inputs to correct outputs.
+
+Common supervised learning algorithms include Linear Regression, Logistic Regression, Decision Trees, Random Forests, and Support Vector Machines.
+
+Unsupervised Learning
+
+Unsupervised learning works with unlabeled data. The goal is to discover hidden structures or patterns.
+
+Clustering algorithms like K-Means group similar data points, while dimensionality reduction techniques like PCA reduce feature complexity.
+
+Reinforcement Learning
+
+Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.
+
+The agent aims to maximize cumulative reward over time. Reinforcement learning is used in robotics, gaming, and autonomous systems.
+
+Key Machine Learning Concepts
+
+Training data is used to teach the model.
+
+Testing data evaluates model performance on unseen examples.
+
+Overfitting occurs when a model performs well on training data but poorly on new data.
+
+Underfitting happens when a model is too simple to capture underlying patterns.
+
+Model Evaluation Metrics
+
+Common metrics include accuracy, precision, recall, F1-score, and ROC-AUC.
+
+Machine Learning Lifecycle
+
+The lifecycle includes data collection, preprocessing, feature engineering, model training, evaluation, deployment, and monitoring.

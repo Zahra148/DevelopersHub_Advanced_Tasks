@@ -1,0 +1,45 @@
+Natural Language Processing Overview
+
+Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables machines to understand, interpret, and generate human language.
+
+Core NLP Tasks
+
+Text classification assigns predefined labels to text.
+
+Sentiment analysis determines emotional tone.
+
+Named Entity Recognition identifies names, locations, and organizations.
+
+Machine translation converts text from one language to another.
+
+Question answering retrieves or generates answers from text.
+
+Limitations of Traditional NLP Models
+
+Earlier NLP models relied on rule-based systems and statistical methods that struggled with context and long dependencies.
+
+Transformer Architecture
+
+Transformers are deep learning models based on self-attention mechanisms that process entire sequences simultaneously.
+
+Self-attention allows the model to weigh the importance of different words in a sentence relative to each other.
+
+Advantages of Transformers
+
+Transformers handle long-range dependencies better than recurrent models.
+
+They enable parallel computation, improving training efficiency.
+
+They produce contextual embeddings where word meaning depends on surrounding words.
+
+Popular Transformer Models
+
+BERT focuses on understanding text.
+
+GPT focuses on text generation.
+
+T5 treats NLP tasks as text-to-text problems.
+
+Applications of Transformers
+
+Transformers power chatbots, virtual assistants, search engines, code generation tools, and content creation systems.
