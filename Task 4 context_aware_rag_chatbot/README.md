@@ -212,7 +212,7 @@ This project is for educational and demonstration purposes.
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
-Machine Learning Engineer Intern: Nayyab Zahra
+AI/ML Engineering Intern: Nayyab Zahra
 
 Built as part of an advanced RAG system implementation project.
 
