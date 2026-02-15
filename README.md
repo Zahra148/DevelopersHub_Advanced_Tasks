@@ -35,30 +35,6 @@ DevelopersHub Advanced Tasks/
 | ├── Task 2 Hugging Face Link.txt
 | ├── telco_churn_pipeline.pkl
 | └── README.md
-|
-├── Task 4 context_aware_rag_chatbot/
-|  ├── app.py                     # Main application entry point
-|  ├── requirements.txt           # Project dependencies
-|  ├── feedback_logger.py         # Logs user feedback
-|  ├── feedback_log.jsonl         # Feedback storage
-|  │
-|  ├── data/                      # Knowledge base documents
-|  │   ├── ai_knowledge.txt
-|  │   ├── machine_learning.txt
-|  │   ├── nlp_transformers.txt
-|  │   └── rag_concepts.txt
-|  │
-|  ├── ingestion/                 # Document ingestion pipeline
-|  │   └── ingest_documents.py
-|  │
-|  ├── rag/                       # Core RAG components
-|  │   ├── rag_chain.py
-|  │   ├── vector_store.py
-|  │   ├── memory.py
-|  │
-|  └── utils/
-└──    └── test_env.py
-
 
 ---
 
@@ -77,16 +53,6 @@ DevelopersHub Advanced Tasks/
 - Aimed at strengthening applied ML problem-solving skills  
 
 ---
-
-### 🔹 Task 4: Context-Aware RAG Chatbot
-- Built a **Context-Aware Retrieval-Augmented Generation (RAG) Chatbot**
-- Document ingestion (PDF / text)
-- Vector embedding using transformer-based models
-- Contextual retrieval using Qdrant
-- Conversational response generation with chat history
-- Designed for **Streamlit deployment**
-
-
 ---
 
 ## 🛠 Tools & Technologies
